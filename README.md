@@ -6,3 +6,5 @@
 
 [![codecov](https://codecov.io/gh/att78/ohtu-2020-viikko1/branch/master/graph/badge.svg)](https://codecov.io/gh/att78/ohtu-2020-viikko1)
 
+
+Tehtävät ovat osoitteessa: [harkat](https://github.com/att78/ohtu-tehtavat)
