@@ -16,7 +16,8 @@ public class Varasto {
         saldo = 0;     // oletus: varasto on tyhjä
     }
 
-    public Varasto(double tilavuus, double alkuSaldo) { // kuormitetaan
+    public Varasto(double tilavuus, double alkuSaldo)
+    { // kuormitetaan
         if (alkuSaldo<tilavuus) {
             this.tilavuus = tilavuus;
             this.saldo = alkuSaldo;
